@@ -4,7 +4,7 @@ Student Name: Morga, Niña Mae C.
 
 Course & Year: BSIT 2nd Year
 
-Database Used: SQLite
+Database Used: SQL
 
 Features:
 
